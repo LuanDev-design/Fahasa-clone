@@ -4,8 +4,8 @@ import HeaderComponent from "./component/header";
 import FooterComponent from "./component/footer";
 
 export const metadata: Metadata = {
-    title: "Tuân làm trang Admin",
-    description: "Giao diện dự án của Tuân",
+    title: "Luân học code",
+    description: "Giao diện dự án của Luân",
 };
 
 export default function RootLayout({
